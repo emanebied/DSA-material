@@ -1,0 +1,1 @@
+Welcome to the Data Structures and Algorithms repository! This repository is designed to help you understand and implement various data structures and algorithms. Whether you're preparing for coding interviews, looking to improve your programming skills, or just curious about the topic, you'll find valuable resources here.
